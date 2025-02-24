@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Hilman
 
-<!--
-**hilmank/hilmank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**
+- 🔹 Backend Developer (.NET, C#)
+- 🔹 API Development with Dapper & FluentValidation
+- 🔹 Database Management (PostgreSQL, SQL Server)
+- 🔹 Desktop App Development (WPF)
 
-Here are some ideas to get you started:
+📫 **Contact Me:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/hilman-karyadi-46ba09308/) 
+- ✉️ Email: hilman.karyadi@email.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Tech Stack:**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
